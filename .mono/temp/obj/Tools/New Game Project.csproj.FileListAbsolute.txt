@@ -1,0 +1,6 @@
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/bin/Tools/New Game Project.dll
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/bin/Tools/New Game Project.pdb
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/obj/Tools/New Game Project.csprojAssemblyReference.cache
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/obj/Tools/New Game Project.csproj.CoreCompileInputs.cache
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/obj/Tools/New Game Project.dll
+/Users/will/Desktop/Godot/Test1/RealTest/.mono/temp/obj/Tools/New Game Project.pdb
